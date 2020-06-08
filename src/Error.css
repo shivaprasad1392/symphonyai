@@ -1,0 +1,7 @@
+.Error {
+    width: 100%;
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    margin: 20px;
+}
